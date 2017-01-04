@@ -1,0 +1,1 @@
+docker run -p 0.0.0.0:19989:19989 -v /media/data/frmwrks/face_server/docs:/home/ubuntu/Documents -i -t bamos/openface /bin/bash
